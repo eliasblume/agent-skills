@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ultra on xhigh"
+  short_description: "Ultra-style delegation while keeping xhigh"
+  default_prompt: "Use $ultra-xhigh to delegate independent workstreams proactively while retaining xhigh reasoning."
